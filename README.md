@@ -1,4 +1,5 @@
-Hi, I’m Gunasekar Jabbala, Self Driving Car and Deep Learning Practitioner
+Hey There, I’m Jabbala, A Self Driving Car and Deep Learning Practitioner
+
 👀 I’m interested in AI and Self Driving Cars 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
